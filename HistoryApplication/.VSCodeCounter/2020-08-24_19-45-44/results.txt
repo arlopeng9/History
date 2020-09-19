@@ -1,0 +1,46 @@
+Date : 2020-08-24 19:45:44
+Directory : d:\Document\repo\History\HistoryApplication
+Total : 16 files,  886 codes, 230 comments, 166 blanks, all 1282 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         14 |        822 |        230 |        160 |      1,212 |
+| XML      |          1 |         55 |          0 |          1 |         56 |
+| Markdown |          1 |          9 |          0 |          5 |         14 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                               |         16 |        886 |        230 |        166 |      1,282 |
+| Algorithm                                                                       |         11 |        767 |        202 |        141 |      1,110 |
+| Resource                                                                        |          1 |          9 |          0 |          5 |         14 |
+| Resource\stopwords-master                                                       |          1 |          9 |          0 |          5 |         14 |
+| UI                                                                              |          1 |         55 |          0 |          1 |         56 |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                        | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\Document\repo\History\HistoryApplication\Algorithm\K_Means.py                | Python   |        120 |         45 |         24 |        189 |
+| d:\Document\repo\History\HistoryApplication\Algorithm\Proxy.py                  | Python   |         41 |         25 |          9 |         75 |
+| d:\Document\repo\History\HistoryApplication\Algorithm\__init__.py               | Python   |          0 |          0 |          1 |          1 |
+| d:\Document\repo\History\HistoryApplication\Algorithm\apriori.py                | Python   |         82 |          1 |         11 |         94 |
+| d:\Document\repo\History\HistoryApplication\Algorithm\dataIntegration.py        | Python   |          7 |          0 |          1 |          8 |
+| d:\Document\repo\History\HistoryApplication\Algorithm\fpGrowth.py               | Python   |         80 |          7 |         17 |        104 |
+| d:\Document\repo\History\HistoryApplication\Algorithm\kkkk.py                   | Python   |         96 |         28 |         13 |        137 |
+| d:\Document\repo\History\HistoryApplication\Algorithm\listen.py                 | Python   |         31 |         45 |         12 |         88 |
+| d:\Document\repo\History\HistoryApplication\Algorithm\recommend.py              | Python   |          0 |          0 |          1 |          1 |
+| d:\Document\repo\History\HistoryApplication\Algorithm\test.py                   | Python   |        105 |         37 |         15 |        157 |
+| d:\Document\repo\History\HistoryApplication\Algorithm\visitVisible.py           | Python   |        205 |         14 |         37 |        256 |
+| d:\Document\repo\History\HistoryApplication\IndexForm.py                        | Python   |         27 |          7 |          8 |         42 |
+| d:\Document\repo\History\HistoryApplication\Main.py                             | Python   |         22 |          2 |          9 |         33 |
+| d:\Document\repo\History\HistoryApplication\Resource\stopwords-master\README.md | Markdown |          9 |          0 |          5 |         14 |
+| d:\Document\repo\History\HistoryApplication\UI\Index.ui                         | XML      |         55 |          0 |          1 |         56 |
+| d:\Document\repo\History\HistoryApplication\init.py                             | Python   |          6 |         19 |          2 |         27 |
+| Total                                                                           |          |        886 |        230 |        166 |      1,282 |
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
